@@ -1,6 +1,6 @@
 {
-  "name": "ym",
-  "description": "Yerevan Mall",
+  "name": "fermat",
+  "description": "Fermat machinery",
   "version": "0.1.0",
   "dependencies": {
     "lodash":"2.4.x",
